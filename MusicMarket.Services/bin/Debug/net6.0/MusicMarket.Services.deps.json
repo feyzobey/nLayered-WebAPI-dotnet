@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MusicMarket.Services/1.0.0": {
+        "dependencies": {
+          "MusicMarket.Core": "1.0.0"
+        },
+        "runtime": {
+          "MusicMarket.Services.dll": {}
+        }
+      },
+      "MusicMarket.Core/1.0.0": {
+        "runtime": {
+          "MusicMarket.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicMarket.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicMarket.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

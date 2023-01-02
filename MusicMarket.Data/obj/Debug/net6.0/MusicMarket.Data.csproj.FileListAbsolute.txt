@@ -1,0 +1,17 @@
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Data.deps.json
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Data.runtimeconfig.json
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Data.dll
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Data.pdb
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Core.dll
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\bin\Debug\net6.0\MusicMarket.Core.pdb
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.csproj.AssemblyReference.cache
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.AssemblyInfoInputs.cache
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.AssemblyInfo.cs
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.csproj.CoreCompileInputs.cache
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.csproj.CopyComplete
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.dll
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\refint\MusicMarket.Data.dll
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.pdb
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\MusicMarket.Data.genruntimeconfig.cache
+C:\Users\fyz\Desktop\GenericRepositoryPattern\MusicMarket.Data\obj\Debug\net6.0\ref\MusicMarket.Data.dll
